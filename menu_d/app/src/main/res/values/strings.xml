@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">menu_d</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Craft</string>
+    <string name="menu_gallery">Material</string>
+    <string name="menu_slideshow">Explore</string>
+    <string name="craft_image_description">Halloween Paper Tube Craft</string>
+
+    <!-- Craft Title -->
+    <string name="craft_title">Halloween Paper Tube Craft</string>
+
+    <!-- Craft Description -->
+    <string name="craft_description">
+        "This fun Halloween craft involves transforming a simple paper tube into a spooky Halloween decoration. Perfect for kids of all ages!"
+    </string>
+
+    <!-- Materials Needed -->
+    <string name="materials_needed">Materials Needed</string>
+
+    <!-- Materials List -->
+    <string name="materials_list">
+        "• Toilet paper tube\n• Black and orange construction paper\n• Scissors\n• Glue\n• Googly eyes\n• Markers\n• Stickers (optional)"
+    </string>
+
+    <!-- Instructions -->
+    <string name="instructions">Instructions</string>
+
+    <!-- Instructions List -->
+    <string name="instructions_list">
+        "1. Take the toilet paper tube and cover it with black construction paper using glue.\n" +
+        "2. Cut out shapes from the orange construction paper to create pumpkin faces or bats, and glue them onto the tube.\n" +
+        "3. Use googly eyes to create a fun spooky look.\n" +
+        "4. Add additional decorations like stickers or drawings to personalize your craft.\n" +
+        "5. Let it dry, and your spooky Halloween paper tube is ready!"
+    </string>
+
+    <!-- Start Craft Button -->
+    <string name="start_craft">Start Craft</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

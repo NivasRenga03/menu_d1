@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="notifications"
+        android:title="Enable Notifications"
+        android:summary="Turn on to receive app notifications"
+        android:defaultValue="true" />
+
+    <ListPreference
+        android:key="theme"
+        android:title="Choose Theme"
+        android:summary="Select light or dark mode"
+        android:entries="@array/theme_options"
+        android:entryValues="@array/theme_values"
+        android:defaultValue="light" />
+
+    <Preference
+        android:key="about"
+        android:title="About"
+        android:summary="Learn more about this app" />
+
+</androidx.preference.PreferenceScreen>
